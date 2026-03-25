@@ -1,0 +1,204 @@
+S.No,Website Name,URL,Domain Authority,Type,Link Type,Category,Country
+1,Blogspot/Blogger,https://www.blogger.com,100,Blog Platform,DoFollow,General,Global
+2,Sites.google.com,https://sites.google.com,99,Article Directory,DoFollow,General,Global
+3,LinkedIn Articles,https://www.linkedin.com,99,Article Directory,DoFollow,Business,Global
+4,Reddit,https://www.reddit.com,97,Social Platform,NoFollow,General,Global
+5,Google Docs,https://docs.google.com,96,Web 2.0,NoFollow,General,Global
+6,Tumblr,https://www.tumblr.com,96,Blog Platform,DoFollow,General,Global
+7,GitHub.com,https://github.com,96,Web 2.0,DoFollow,Technology,Global
+8,Vimeo.com,https://vimeo.com,96,Web 2.0,NoFollow,Video,Global
+9,Medium,https://www.medium.com,95,Article Directory,DoFollow,General,Global
+10,Jimdo Free,https://www.jimdofree.com,95,Article Directory,DoFollow,General,Global
+11,TripAdvisor Blog,https://www.tripadvisor.com,95,Guest Post,NoFollow,Travel,Global
+12,SlideShare.net,https://www.slideshare.net,95,Web 2.0,DoFollow,Business,Global
+13,Wattpad,https://www.wattpad.com,95,Blog Platform,DoFollow,Writing & Publishing,Global
+14,WordPress.com,https://www.wordpress.com,94,Blog Platform,DoFollow,General,Global
+15,Notion,https://www.notion.so,94,Blog Platform,NoFollow,Productivity,Global
+16,Pinterest,https://www.pinterest.com,94,Social Platform,NoFollow,General,Global
+17,Forbes,https://www.forbes.com,94,Guest Post,DoFollow,Business,Global
+18,HuffPost,https://www.huffpost.com,94,Guest Post,DoFollow,News,Global
+19,LiveJournal,https://www.livejournal.com,93,Blog Platform,DoFollow,General,Global
+20,ResearchGate,https://www.researchgate.net,93,Article Directory,NoFollow,Science,Global
+21,StackOverflow,https://stackoverflow.com,93,Q&A Platform,NoFollow,Technology,Global
+22,BlogLovin,https://www.bloglovin.com,93,Blog Directory,DoFollow,Lifestyle,Global
+23,Academia.edu,https://www.academia.edu,93,Article Directory,DoFollow,Education,Global
+24,Telegraph,https://telegra.ph,93,Blog Platform,DoFollow,General,Global
+25,Wix.com,https://www.wix.com,93,Web 2.0,NoFollow,General,Global
+26,Quora,https://www.quora.com,93,Q&A Platform,NoFollow,General,Global
+27,PsychologyToday,https://www.psychologytoday.com,93,Guest Post,DoFollow,Health,Global
+28,Issuu.com,https://issuu.com,93,Web 2.0,DoFollow,Publishing,Global
+29,Mashable,https://mashable.com,93,Guest Post,DoFollow,Technology,Global
+30,HubSpot Blog,https://blog.hubspot.com,93,Guest Post,DoFollow,Marketing,Global
+31,Fandom.com,https://www.fandom.com,93,Web 2.0,DoFollow,Entertainment,Global
+32,WikiHow,https://www.wikihow.com,93,Guest Post,DoFollow,How-To,Global
+33,SoundCloud.com,https://soundcloud.com,93,Web 2.0,NoFollow,Audio,Global
+34,DailyMotion.com,https://www.dailymotion.com,93,Web 2.0,DoFollow,Video,Global
+35,Flickr.com,https://www.flickr.com,93,Web 2.0,DoFollow,Photography,Global
+36,Scribd.com,https://scribd.com,93,Web 2.0,DoFollow,Publishing,Global
+37,GoodReads.com,https://www.goodreads.com,93,Web 2.0,DoFollow,Books,Global
+38,About.me,https://about.me,92,Web 2.0,DoFollow,Profile,Global
+39,Behance.net,https://www.behance.net,92,Web 2.0,DoFollow,Design,Global
+40,Entrepreneur,https://www.entrepreneur.com,92,Guest Post,DoFollow,Business,Global
+41,Lifehacker,https://lifehacker.com,92,Guest Post,DoFollow,Lifestyle,Global
+42,FastCompany,https://www.fastcompany.com,92,Guest Post,DoFollow,Business,Global
+43,HBR,https://hbr.org,92,Guest Post,DoFollow,Business,Global
+44,HubPages,https://www.hubpages.com,92,Article Directory,DoFollow,General,Global
+45,Evernote,https://www.evernote.com,92,Blog Platform,NoFollow,Productivity,Global
+46,Patreon,https://www.patreon.com,92,Blog Platform,NoFollow,General,Global
+47,ProductHunt,https://www.producthunt.com,92,Blog Platform,NoFollow,Startups,Global
+48,eHow,https://www.ehow.com,92,Article Directory,DoFollow,How-To,Global
+49,HowStuffWorks,https://www.howstuffworks.com,92,Guest Post,DoFollow,Education,Global
+50,Investing.com,https://www.investing.com,91,Guest Post,DoFollow,Finance,Global
+51,Crunchbase,https://www.crunchbase.com,91,Guest Post,DoFollow,Startups,Global
+52,BabyCenter,https://www.babycenter.com,91,Guest Post,DoFollow,Parenting,Global
+53,Dribbble.com,https://dribbble.com,91,Web 2.0,NoFollow,Design,Global
+54,Inc.com,https://www.inc.com,91,Guest Post,DoFollow,Business,Global
+55,VentureBeat,https://venturebeat.com,91,Guest Post,DoFollow,Technology,Global
+56,Gumroad,https://www.gumroad.com,91,Blog Platform,NoFollow,General,Global
+57,SearchEngineLand,https://searchengineland.com,91,Guest Post,DoFollow,SEO,Global
+58,JustPaste.it,https://justpaste.it,91,Blog Platform,DoFollow,General,Global
+59,Flipboard,https://flipboard.com,91,Content Curation,NoFollow,News,Global
+60,Hacker News,https://news.ycombinator.com,91,Blog Platform,NoFollow,Technology,Global
+61,Diigo,https://www.diigo.com,90,Social Bookmarking,DoFollow,General,Global
+62,Buffer,https://buffer.com,90,Guest Post,DoFollow,Social Media,Global
+63,SeekingAlpha,https://seekingalpha.com,90,Article Directory,DoFollow,Finance,Global
+64,Pocket,https://getpocket.com,90,Social Bookmarking,NoFollow,General,Global
+65,Gravatar.com,https://gravatar.com,90,Web 2.0,DoFollow,Profile,Global
+66,Dev.to,https://dev.to,90,Article Directory,DoFollow,Technology,Global
+67,Strava,https://www.strava.com,90,Article Directory,DoFollow,Fitness,Global
+68,Substack,https://substack.com,89,Article Directory,DoFollow,Newsletter,Global
+69,Scoop.it,https://www.scoop.it,89,Content Curation,DoFollow,General,Global
+70,Slashdot,https://www.slashdot.org,89,Blog Platform,NoFollow,Technology,Global
+71,SmashingMagazine,https://www.smashingmagazine.com,89,Guest Post,DoFollow,Web Development,Global
+72,DeviantArt.com,https://www.deviantart.com,88,Web 2.0,DoFollow,Art & Design,Global
+73,Weebly.com,https://www.weebly.com,88,Web 2.0,DoFollow,General,Global
+74,TechRepublic,https://www.techrepublic.com,88,Guest Post,DoFollow,Technology,Global
+75,TheKitchn,https://www.thekitchn.com,88,Guest Post,DoFollow,Food,Global
+76,Benzinga,https://www.benzinga.com,88,Guest Post,DoFollow,Finance,Global
+77,Pearltrees,https://www.pearltrees.com,87,Content Curation,DoFollow,General,Global
+78,YourStory,https://www.yourstory.com,87,Article Directory,DoFollow,Startups,India
+79,Itch.io,https://itch.io,87,Web 2.0,DoFollow,Gaming,Global
+80,LifeHack.org,https://lifehack.org,87,Guest Post,DoFollow,Lifestyle,Global
+81,EzineArticles,https://www.ezinearticles.com,87,Article Directory,DoFollow,General,Global
+82,Nairaland,https://www.nairaland.com,87,Article Directory,DoFollow,General,Nigeria
+83,Instructables.com,https://www.instructables.com,87,Web 2.0,DoFollow,DIY,Global
+84,ProProfs,https://www.proprofs.com,86,Guest Post,DoFollow,Technology,Global
+85,MindBodyGreen,https://www.mindbodygreen.com,86,Guest Post,DoFollow,Health,Global
+86,CreativeBloq,https://www.creativebloq.com,86,Guest Post,DoFollow,Design,Global
+87,Edutopia,https://www.edutopia.org,86,Guest Post,DoFollow,Education,Global
+88,Edublogs.org,https://edublogs.org,86,Web 2.0,DoFollow,Education,Global
+89,FreeCodeCamp,https://www.freecodecamp.org,85,Blog Platform,DoFollow,Technology,Global
+90,Icons8,https://icons8.com,85,Guest Post,DoFollow,Design,Global
+91,SitePoint,https://www.sitepoint.com,85,Blog Platform,DoFollow,Web Development,Global
+92,Zoho.com,https://www.zoho.com,85,Web 2.0,DoFollow,Business,Global
+93,DZone,https://dzone.com,85,Article Directory,DoFollow,Technology,Global
+94,ArtStation.com,https://www.artstation.com,85,Web 2.0,DoFollow,Art & Design,Global
+95,Hashnode.com,https://hashnode.com,84,Web 2.0,DoFollow,Technology,Global
+96,GetResponse,https://www.getresponse.com,84,Guest Post,DoFollow,Email Marketing,Global
+97,BlogTalkRadio.com,https://www.blogtalkradio.com,84,Web 2.0,DoFollow,Podcast,Global
+98,CSS-Tricks,https://css-tricks.com,84,Guest Post,DoFollow,Web Development,Global
+99,Fashionista,https://www.fashionista.com,84,Guest Post,DoFollow,Fashion,Global
+100,HostelWorld Blog,https://www.hostelworld.com,84,Guest Post,DoFollow,Travel,Global
+101,Jimdo.com,https://www.jimdo.com,83,Web 2.0,DoFollow,General,Global
+102,Over-blog.com,https://en.over-blog.com,83,Web 2.0,DoFollow,General,Global
+103,BoardingArea,https://www.boardingarea.com,83,Guest Post,DoFollow,Travel,Global
+104,Webflow.io,https://webflow.com,82,Web 2.0,DoFollow,General,Global
+105,TypePad.com,https://www.typepad.com,82,Web 2.0,DoFollow,General,Global
+106,Strikingly.com,https://www.strikingly.com,82,Web 2.0,DoFollow,General,Global
+107,DigitalPhotographySchool,https://digital-photography-school.com,82,Guest Post,DoFollow,Photography,Global
+108,TheFreeLibrary,https://www.thefreelibrary.com,82,Article Directory,DoFollow,General,Global
+109,Hongkiat,https://www.hongkiat.com,81,Guest Post,DoFollow,Technology,Global
+110,OneGreenPlanet,https://www.onegreenplanet.org,81,Guest Post,DoFollow,Environment,Global
+111,MarketingProfs,https://www.marketingprofs.com,81,Guest Post,DoFollow,Marketing,Global
+112,APSense,https://www.apsense.com,80,Article Directory,DoFollow,Business,Global
+113,Calameo.com,https://www.calameo.com,80,Web 2.0,DoFollow,Publishing,Global
+114,JeffBullas,https://www.jeffbullas.com,79,Guest Post,DoFollow,Marketing,Global
+115,Site123.com,https://www.site123.com,79,Web 2.0,DoFollow,General,Global
+116,BiggerPockets,https://www.biggerpockets.com,78,Article Directory,DoFollow,Real Estate,Global
+117,Hackernoon,https://hackernoon.com,78,Blog Platform,DoFollow,Technology,Global
+118,Webnode.com,https://www.webnode.com,78,Web 2.0,DoFollow,General,Global
+119,Ucoz.com,https://www.ucoz.com,78,Web 2.0,DoFollow,General,Global
+120,ReverbNation.com,https://www.reverbnation.com,78,Web 2.0,DoFollow,Music,Global
+121,Inc42,https://inc42.com,78,Guest Post,DoFollow,Business,India
+122,Vocal.Media,https://vocal.media,77,Blog Platform,DoFollow,General,Global
+123,Vingle,https://www.vingle.net,77,Blog Platform,DoFollow,General,Global
+124,MerchantCircle,https://www.merchantcircle.com,77,Article Directory,DoFollow,Business,US
+125,FreshWorks,https://www.freshworks.com,77,Guest Post,DoFollow,Technology,Global
+126,ArticlesBase,https://www.articlesbase.com,77,Article Directory,DoFollow,General,Global
+127,CommunityWalk,https://www.communitywalk.com,76,Article Directory,DoFollow,General,Global
+128,Penzu,https://www.penzu.com,76,Blog Platform,DoFollow,General,Global
+129,Rediff Blogs,https://blog.rediff.com,76,Web 2.0,DoFollow,General,India
+130,Mix.com,https://mix.com,75,Social Bookmarking,DoFollow,General,Global
+131,BizCommunity,https://www.bizcommunity.com,75,Article Directory,DoFollow,Business,Global
+132,MyTrendingStories,https://mytrendingstories.com,75,Article Directory,DoFollow,General,Global
+133,Plurk,https://www.plurk.com,74,Social Platform,DoFollow,General,Global
+134,CoSchedule,https://coschedule.com,74,Guest Post,DoFollow,Marketing,Global
+135,Spoke,https://www.spoke.com,73,Article Directory,DoFollow,Business,US
+136,Svbtle.com,https://svbtle.com,73,Web 2.0,DoFollow,General,Global
+137,BuyMeACoffee,https://buymeacoffee.com,73,Blog Platform,NoFollow,General,Global
+138,Cloudways,https://www.cloudways.com,72,Guest Post,DoFollow,Technology,Global
+139,GitBook.com,https://www.gitbook.com,72,Web 2.0,DoFollow,Technology,Global
+140,Ko-fi,https://ko-fi.com,72,Blog Platform,NoFollow,General,Global
+141,Clutch.co,https://clutch.co,72,Guest Post,DoFollow,Business,Global
+142,AllTop,https://www.alltop.com,72,Blog Directory,DoFollow,General,Global
+143,Wikidot.com,https://www.wikidot.com,72,Web 2.0,DoFollow,Wiki,Global
+144,FlipHTML5.com,https://fliphtml5.com,72,Web 2.0,DoFollow,Publishing,Global
+145,IndieHackers,https://www.indiehackers.com,72,Blog Platform,DoFollow,Startups,Global
+146,E27,https://e27.co,72,Article Directory,DoFollow,Startups,Global
+147,Tilda.cc,https://tilda.cc,72,Web 2.0,DoFollow,General,Global
+148,Wakelet,https://www.wakelet.com,71,Content Curation,DoFollow,Education,Global
+149,CXL,https://cxl.com,71,Guest Post,DoFollow,Marketing,Global
+150,Webs.com,https://www.webs.com,71,Web 2.0,DoFollow,General,Global
+151,GrowthHackers,https://www.growthhackers.com,71,Blog Platform,DoFollow,Marketing,Global
+152,DreamWidth.org,https://www.dreamwidth.org,70,Web 2.0,DoFollow,General,Global
+153,Skyrock.com,https://www.skyrock.com,70,Web 2.0,DoFollow,General,Global
+154,Write.as,https://write.as,69,Blog Platform,DoFollow,General,Global
+155,WarriorForum,https://www.warriorforum.com,68,Blog Platform,DoFollow,Marketing,Global
+156,AngelFire.com,https://www.angelfire.lycos.com,68,Web 2.0,DoFollow,General,Global
+157,TravelBlog.org,https://www.travelblog.org,67,Web 2.0,DoFollow,Travel,Global
+158,Blogarama,https://www.blogarama.com,67,Blog Directory,DoFollow,General,Global
+159,Steemit.com,https://steemit.com,67,Web 2.0,DoFollow,Blockchain,Global
+160,AnalyticsInsight,https://www.analyticsinsight.net,66,Guest Post,DoFollow,Technology,India
+161,Carrd.co,https://carrd.co,65,Web 2.0,DoFollow,General,Global
+162,BrightHub,https://www.brighthub.com,65,Article Directory,DoFollow,Technology,Global
+163,Tripod.com,https://tripod.lycos.com,65,Web 2.0,DoFollow,General,Global
+164,Kinja.com,https://kinja.com,65,Web 2.0,DoFollow,General,Global
+165,Minds.com,https://www.minds.com,64,Web 2.0,DoFollow,Social,Global
+166,SelfGrowth,https://www.selfgrowth.com,64,Article Directory,DoFollow,Personal Growth,Global
+167,Storeboard,https://www.storeboard.com,63,Article Directory,DoFollow,Business,Global
+168,IndiBlogger,https://www.indiblogger.in,63,Blog Directory,DoFollow,General,India
+169,Teletype.in,https://teletype.in,62,Blog Platform,DoFollow,General,Global
+170,InfoBarrel,https://www.infobarrel.com,62,Article Directory,DoFollow,General,Global
+171,Edocr.com,https://www.edocr.com,62,Web 2.0,DoFollow,Publishing,Global
+172,DigitalPoint,https://www.digitalpoint.com,62,Blog Platform,DoFollow,Marketing,Global
+173,Postach.io,https://www.postach.io,62,Blog Platform,DoFollow,General,Global
+174,WriteUpCafe,https://writeupcafe.com,61,Article Directory,DoFollow,General,Global
+175,Pen.io,https://pen.io,61,Web 2.0,DoFollow,General,Global
+176,Folkd,https://www.folkd.com,60,Social Bookmarking,DoFollow,General,Global
+177,BlogAdda,https://www.blogadda.com,60,Blog Directory,DoFollow,General,India
+178,EasyFie,https://www.easyfie.com,60,Article Directory,DoFollow,General,Global
+179,Bravenet.com,https://www.bravenet.com,60,Web 2.0,DoFollow,General,Global
+180,ArticleRing,https://www.articlering.com,59,Article Directory,DoFollow,General,Global
+181,TheOmnibuzz,https://theomnibuzz.com,57,Article Directory,DoFollow,General,Global
+182,Yola.com,https://www.yola.com,56,Web 2.0,DoFollow,General,Global
+183,GoArticles,https://www.goarticles.com,56,Article Directory,DoFollow,General,Global
+184,WebStarts.com,https://www.webstarts.com,55,Web 2.0,DoFollow,General,Global
+185,Abilogic,https://www.abilogic.com,55,Article Directory,DoFollow,General,Global
+186,ArticleAlley,https://www.articlealley.com,55,Article Directory,DoFollow,General,Global
+187,BizSugar,https://www.bizsugar.com,55,Content Curation,DoFollow,Business,Global
+188,SooperArticles,https://www.sooperarticles.com,54,Article Directory,DoFollow,General,Global
+189,Hive.blog,https://hive.blog,53,Web 2.0,DoFollow,Blockchain,Global
+190,ArticleSneed,https://www.articlesneed.com,52,Article Directory,DoFollow,General,Global
+191,Uberant,https://www.uberant.com,52,Article Directory,DoFollow,General,Global
+192,DesignFirms,https://www.designfirms.org,52,Article Directory,DoFollow,Design,Global
+193,Inube.com,https://www.inube.com,52,Web 2.0,DoFollow,General,Global
+194,Tealfeed,https://tealfeed.com,52,Blog Platform,DoFollow,General,Global
+195,ArticleCube,https://www.articlecube.com,51,Article Directory,DoFollow,General,Global
+196,SubmitYourArticle,https://www.submityourarticle.com,50,Article Directory,DoFollow,General,Global
+197,Klusster,https://klusster.com,48,Article Directory,DoFollow,General,Global
+198,DoodleKit.com,https://www.doodlekit.com,45,Web 2.0,DoFollow,General,Global
+199,ArticleBiz,https://www.articlebiz.com,44,Article Directory,DoFollow,General,Global
+200,ArticleTed,https://www.articleted.com,44,Article Directory,DoFollow,General,Global
+201,Jigsy.com,https://www.jigsy.com,43,Web 2.0,DoFollow,General,Global
+202,Page.tl,https://www.page.tl,42,Web 2.0,DoFollow,General,Global
+203,LetsDiskuss,https://www.letsdiskuss.com,26,Article Directory,DoFollow,General,India

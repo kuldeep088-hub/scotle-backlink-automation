@@ -1,0 +1,38 @@
+# Credentials — NEVER commit the real config
+blog_poster/blog_config.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output & logs (generated data, not code)
+blog_poster/output/posts_log.csv
+blog_poster/output/poster.log
+blog_poster/output/batch_results_*.csv
+blog_poster/output/gsheet_export/
+blog_poster/output/browser_state/
+data/backlinks_*.csv
+data/failed_posts.csv
+data/top30_*.csv
+data/scotle_backlink_report.html
+logs/
+
+# Auth tokens saved locally
+telegraph_token.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude internal
+.claude/
+.agents/
+skills-lock.json
